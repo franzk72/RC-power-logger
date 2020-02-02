@@ -16,6 +16,9 @@ monitor using an INA226 IC.
 
 # INA226 adapter schematics
 
+Below is the INA226 adapter schematics. The resistor R1 value must be selected based on expected current in the system.
+Solder bridges SB1 and SB2 can be connected or left open to set the I2C device address.
+
 ![Schematics](/hw/power-data-logger-sch.png)
 
 # Connection
