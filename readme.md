@@ -18,6 +18,7 @@ monitor using an INA226 IC.
 
 ![Schematics](/hw/power-data-logger.png)
 
+
 # Connection
 
 # Example
