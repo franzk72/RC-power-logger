@@ -1,13 +1,11 @@
 # RC power data logger - INA226
 
 The following guide presents how to make a RC boat power current/voltage/power
-monitor using an INA226 ultra-precise i2c IC.
+monitor using an INA226 IC.
 
 # Block scheme
 
 ![System block scheme](/resource/block-scheme.png)
-
-# PCB
 
 # Hardware needed
 
@@ -15,6 +13,8 @@ monitor using an INA226 ultra-precise i2c IC.
 1. SD card adapter & SD card
 1. INA226 adapter
 1. Misc items (connectors, wires, etc.)
+
+# INA226 adapter schematics
 
 # Connection
 
