@@ -12,6 +12,7 @@ monitor using an INA226 IC.
 1. Teensy 3.2 (or similar development board)
 1. SD card adapter & SD card
 1. INA226 adapter
+1. 3.3V voltage regulator (for 3.3V Teensy 3.2)
 1. Misc items (connectors, wires, etc.)
 
 # INA226 adapter schematics
